@@ -6,6 +6,7 @@ public class Runner {
         System.out.println("versiyon 4");
         //remoteda değişiklik
          //remoteda değişiklik2
-        //Akişisi değişiklik yaptı
+         //sırayla yap bari
+
     }
 }
